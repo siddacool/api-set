@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Stranger Things",
+    "genre": "Drama, Fantasy, Horror",
+    "type": "Series",
+    "runtime": 60,
+    "seasons": 1,
+    "avgepisodes": 8,
+    "network": "Netflix",
+    "status": "Ongoing",
+    "imdb": "http://www.imdb.com/title/tt4574334/"
+  },
+  {
+    "name": "Silicon Valley",
+    "genre": "Comdey",
+    "type": "Series",
+    "runtime": 30,
+    "seasons": 4,
+    "avgepisodes": 10,
+    "network": "HBO",
+    "status": "Ongoing",
+    "imdb": "http://www.imdb.com/title/tt2575988/"
+  },
+  {
+    "name": "11.22.63",
+    "genre": "Drama, Mystery, Sci-Fi ",
+    "type": "Mini-Series",
+    "runtime": 60,
+    "seasons": 1,
+    "avgepisodes": 8,
+    "network": "Hulu",
+    "status": "Finished",
+    "imdb": "http://www.imdb.com/title/tt2879552/"
+  },
+  {
+    "name": "Westworld",
+    "genre": "Western(cowboys), Mystery, Sci-Fi ",
+    "type": "Series",
+    "mindf": true,
+    "runtime": 60,
+    "seasons": 1,
+    "avgepisodes": 10,
+    "network": "HBO",
+    "status": "Ongoing",
+    "imdb": "http://www.imdb.com/title/tt0475784/"
+  },
+  {
+    "name": "Mr. Robot",
+    "genre": "Crime, Drama, Thriller, Hacking",
+    "type": "Series",
+    "mindf": true,
+    "runtime": 45,
+    "seasons": 2,
+    "avgepisodes": 10,
+    "network": "USA",
+    "status": "Ongoing",
+    "imdb": "http://www.imdb.com/title/tt4158110/"
+  },
+  {
+    "name": "Breaking Bad",
+    "genre": "Crime, Drama,Chemistry",
+    "type": "Series",
+    "runtime": 45,
+    "seasons": 5,
+    "avgepisodes": 13,
+    "network": "AMC",
+    "status": "Finished",
+    "imdb": "http://www.imdb.com/title/tt0903747"
+  },
+  {
+    "name": "LOST",
+    "genre": "Adventure, Drama, Fantasy",
+    "type": "Series",
+    "mindf": true,
+    "runtime": 45,
+    "seasons": 6,
+    "avgepisodes": 24,
+    "network": "ABC",
+    "status": "Finished",
+    "imdb": "http://www.imdb.com/title/tt0411008/"
+  },
+  {
+    "name": "Sherlock",
+    "genre": "Crime, Drama, Mystery",
+    "type": "Mini-Series",
+    "runtime": 90,
+    "seasons": 4,
+    "avgepisodes": 3,
+    "network": "BBC",
+    "status": "Finished",
+    "imdb": "http://www.imdb.com/title/tt1475582/"
+  },
+  {
+    "name": "Black Mirror",
+    "genre": "Drama, Sci-Fi, Thriller",
+    "type": "Antrology Series",
+    "mindf": true,
+    "runtime": 60,
+    "seasons": 3,
+    "avgepisodes": 4,
+    "network": "BBC/Netflix",
+    "status": "Ongoing",
+    "imdb": "http://www.imdb.com/title/tt2085059"
+  },
+  {
+    "name": "Orphan Black",
+    "genre": "Action, Drama, Sci-Fi ",
+    "type": "Series",
+    "runtime": 45,
+    "seasons": 4,
+    "avgepisodes": 10,
+    "network": "BBC",
+    "status": "Ongoing",
+    "imdb": "http://www.imdb.com/title/tt2234222/"
+  },
+  {
+    "name": "American Crime Story : The People v. O.J. Simpson",
+    "genre": "Biography, Crime, Drama",
+    "type": "Mini-Series",
+    "runtime": 60,
+    "seasons": 1,
+    "avgepisodes": 10,
+    "network": "FX",
+    "status": "Finished",
+    "imdb": "http://www.imdb.com/title/tt2788432/"
+  },
+  {
+    "name": "Making a Murderer",
+    "genre": "Documentary, Crime",
+    "type": "Documentary",
+    "runtime": 60,
+    "seasons": 1,
+    "avgepisodes": 10,
+    "network": "Netflix",
+    "status": "Ongoing",
+    "imdb": "http://www.imdb.com/title/tt5189670/"
+  },
+  {
+    "name": "Death Note",
+    "genre": "Animation, Crime, Drama",
+    "type": "Anime",
+    "runtime": 30,
+    "seasons": 1,
+    "avgepisodes": 37,
+    "network": "-",
+    "status": "Finished",
+    "imdb": "http://www.imdb.com/title/tt0877057/"
+  }
+]
