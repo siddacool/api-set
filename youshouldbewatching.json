@@ -1,7 +1,9 @@
 [
   {
     "name": "Stranger Things",
-    "genre": "Drama, Fantasy, Horror",
+    "genre": [
+      "Drama", "Fantasy", "Horror"
+    ],
     "type": "Series",
     "runtime": 60,
     "seasons": 1,
@@ -12,7 +14,9 @@
   },
   {
     "name": "Silicon Valley",
-    "genre": "Comdey",
+    "genre": [
+      "Comdey"
+    ],
     "type": "Series",
     "runtime": 30,
     "seasons": 4,
@@ -23,7 +27,11 @@
   },
   {
     "name": "11.22.63",
-    "genre": "Drama, Mystery, Sci-Fi ",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
     "type": "Mini-Series",
     "runtime": 60,
     "seasons": 1,
@@ -34,7 +42,11 @@
   },
   {
     "name": "Westworld",
-    "genre": "Western(cowboys), Mystery, Sci-Fi ",
+    "genre": [
+      "Western", 
+      "Mystery", 
+      "Sci-Fi "
+    ],
     "type": "Series",
     "mindf": true,
     "runtime": 60,
@@ -46,7 +58,12 @@
   },
   {
     "name": "Mr. Robot",
-    "genre": "Crime, Drama, Thriller, Hacking",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Hacking"
+    ],
     "type": "Series",
     "mindf": true,
     "runtime": 45,
@@ -58,7 +75,11 @@
   },
   {
     "name": "Breaking Bad",
-    "genre": "Crime, Drama,Chemistry",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Chemistry"
+    ],
     "type": "Series",
     "runtime": 45,
     "seasons": 5,
@@ -69,7 +90,11 @@
   },
   {
     "name": "LOST",
-    "genre": "Adventure, Drama, Fantasy",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
     "type": "Series",
     "mindf": true,
     "runtime": 45,
@@ -81,7 +106,11 @@
   },
   {
     "name": "Sherlock",
-    "genre": "Crime, Drama, Mystery",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
     "type": "Mini-Series",
     "runtime": 90,
     "seasons": 4,
@@ -92,7 +121,11 @@
   },
   {
     "name": "Black Mirror",
-    "genre": "Drama, Sci-Fi, Thriller",
+    "genre": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
     "type": "Antrology Series",
     "mindf": true,
     "runtime": 60,
@@ -104,7 +137,11 @@
   },
   {
     "name": "Orphan Black",
-    "genre": "Action, Drama, Sci-Fi ",
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
     "type": "Series",
     "runtime": 45,
     "seasons": 4,
@@ -115,7 +152,11 @@
   },
   {
     "name": "American Crime Story : The People v. O.J. Simpson",
-    "genre": "Biography, Crime, Drama",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
     "type": "Mini-Series",
     "runtime": 60,
     "seasons": 1,
@@ -126,7 +167,10 @@
   },
   {
     "name": "Making a Murderer",
-    "genre": "Documentary, Crime",
+    "genre": [
+      "Documentary",
+      "Crime"
+    ],
     "type": "Documentary",
     "runtime": 60,
     "seasons": 1,
@@ -137,7 +181,11 @@
   },
   {
     "name": "Death Note",
-    "genre": "Animation, Crime, Drama",
+    "genre": [
+      "Animation",
+      "Crime",
+      "Drama"
+    ],
     "type": "Anime",
     "runtime": 30,
     "seasons": 1,
